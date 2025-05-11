@@ -2,20 +2,20 @@
   "data": {
     "episodes": [
       {
-        "title": "🎯左右互搏的AlphaZero大法，是怎样炼成的？ 樊麾/东东枪/北冥乘海生",
-        "podcastID": "404d6ff77ebc8a401be8c6822155aad9",
-        "podcastName": "科技修道院",
-        "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/74/e1/d4/74e1d49d-19b4-c106-5613-001f936ef461/mza_3240129650816601512.jpg/100x100bb.jpg",
-        "link": "https://www.xiaoyuzhoufm.com/episode/680c61768aed253fa397587c",
-        "playCount": 2490,
-        "commentCount": 42,
-        "subscription": 1234,
-        "duration": 85,
-        "postTime": "2025-04-26T16:00:00.000Z",
-        "primaryGenreName": "科技",
+        "title": "6.大学招生“阴盛阳衰”“女强男弱”，是真的么？",
+        "podcastID": "5f1d4250c6ca3f789467f5544279d090",
+        "podcastName": "数据会说话",
+        "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
+        "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
+        "playCount": 4200,
+        "commentCount": 103,
+        "subscription": 7788,
+        "duration": 33,
+        "postTime": "2025-05-08T10:25:12.609Z",
+        "primaryGenreName": "",
         "totalEpisodesCount": 4,
-        "openRate": 2.0178282009724473,
-        "lastReleaseDateDayCount": 13.146168969907407
+        "openRate": 0.539291217257319,
+        "lastReleaseDateDayCount": 2.3786633796296295
       },
       {
         "title": "11月 饮茶粤海未能忘",
@@ -23,15 +23,15 @@
         "podcastName": "忽略2024",
         "logoURL": "https://xyzrank.justinbot.com/FoD7s4b0GCaPdU01BtAmZTIrhToB.jpg@small",
         "link": "https://www.xiaoyuzhoufm.com/episode/680f4d278aed253fa3028be6",
-        "playCount": 1924,
+        "playCount": 1938,
         "commentCount": 91,
         "subscription": 1421,
         "duration": 74,
         "postTime": "2025-04-28T10:01:41.319Z",
         "primaryGenreName": "",
         "totalEpisodesCount": 2,
-        "openRate": 1.3539760731878958,
-        "lastReleaseDateDayCount": 11.394996296296297
+        "openRate": 1.3638282899366643,
+        "lastReleaseDateDayCount": 12.39499775462963
       },
       {
         "title": "放假前奏：旅行趣事一箩筐",
@@ -39,40 +39,24 @@
         "podcastName": "伦家不要嘛",
         "logoURL": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/fc/15/dafc154a-f07c-06be-0765-415df06a44fa/mza_16167900013746882229.jpg/100x100bb.jpg",
         "link": "https://www.xiaoyuzhoufm.com/episode/680f667b7a449ae858359c42",
-        "playCount": 1404,
-        "commentCount": 12,
+        "playCount": 1445,
+        "commentCount": 13,
         "subscription": 4362,
         "duration": 68,
         "postTime": "2025-04-28T11:39:27.462Z",
         "primaryGenreName": "休闲",
         "totalEpisodesCount": 18,
-        "openRate": 0.3218707015130674,
-        "lastReleaseDateDayCount": 11.327101122685185
-      },
-      {
-        "title": "6.大学招生“阴盛阳衰”“女强男弱”，是真的么？",
-        "podcastID": "5f1d4250c6ca3f789467f5544279d090",
-        "podcastName": "数据会说话",
-        "logoURL": "https://xyzrank.justinbot.com/FjdSuofAaysCYTbf0jhw620PE8oU.jpg@small",
-        "link": "https://www.xiaoyuzhoufm.com/episode/681c84bd24f855934693ffb9",
-        "playCount": 1239,
-        "commentCount": 42,
-        "subscription": 7788,
-        "duration": 33,
-        "postTime": "2025-05-08T10:25:12.609Z",
-        "primaryGenreName": "",
-        "totalEpisodesCount": 4,
-        "openRate": 0.1590909090909091,
-        "lastReleaseDateDayCount": 1.3786619212962963
+        "openRate": 0.33127005960568545,
+        "lastReleaseDateDayCount": 12.327102581018519
       }
     ],
     "medianValues": {
-      "playCount": 1664,
-      "commentCount": 42,
-      "interactiveRate": 0.025382887482131918,
-      "openRate": 0.8379233873504817,
-      "duration": 71,
-      "lastReleaseDateDayCount": 11.361048709490742
+      "playCount": 1938,
+      "commentCount": 91,
+      "interactiveRate": 0.024523809523809524,
+      "openRate": 0.539291217257319,
+      "duration": 68,
+      "lastReleaseDateDayCount": 12.327102581018519
     }
   },
   "type": 3
