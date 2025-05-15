@@ -31,11 +31,15 @@ jobs:
 
     - name: Commit files
       run: |
-        DATE=`date +%Y-%m-%d`
-        git add .
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -a -m ":arrow_up: Daily update on $DATE"
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "No changes to commit."
+        else
+          DATE=`date +%Y-%m-%d`
+          git add .
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -a -m ":arrow_up: Daily update on $DATE"
+        fi
 
     - name: Push changes
       uses: ad-m/github-push-action@master
